@@ -2,7 +2,6 @@ Ishita
 Tyagi
 Mini
 Tyagi
-<<<<<<< HEAD
+
 IshitaS
-=======
->>>>>>> e343dc47622ed9459aaf1c52dcafae3ec28733da
+
